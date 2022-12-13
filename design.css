@@ -47,10 +47,10 @@ body, html{
 }   
 
 .fundo1::before{
-    background-image: url(/img/img1.jpg);
+    background-image: url(img/img1.jpg);
 }
 
 .fundo2::before{
-    background-image: url(/img/img2.jpg);
+    background-image: url(img/img2.jpg);
 }
 
